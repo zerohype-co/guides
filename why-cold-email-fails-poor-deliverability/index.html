@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Why Cold Email Fails: Poor Email Deliverability | ZeroHype</title>
+<meta name="description" content="Cold email campaigns that go to spam before they're read. SPF, DKIM, DMARC, domain warm-up, and the technical deliverability factors that determine whether your emails land.">
+<link rel="canonical" href="https://zerohypelab.com/guides/why-cold-email-fails-poor-deliverability/">
+<meta property="og:title" content="Why Cold Email Fails: Poor Email Deliverability | ZeroHype">
+<meta property="og:description" content="Cold email campaigns that go to spam before they're read. SPF, DKIM, DMARC, domain warm-up, and the technical deliverability factors that determine whether your emails land.">
+<meta property="og:url" content="https://zerohypelab.com/guides/why-cold-email-fails-poor-deliverability/">
+<meta property="og:site_name" content="ZeroHype">
+<meta property="og:type" content="article">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Why Cold Email Fails: Poor Email Deliverability | ZeroHype">
+<meta name="twitter:description" content="Cold email campaigns that go to spam before they're read. SPF, DKIM, DMARC, domain warm-up, and the technical deliverability factors that determine whether your emails land.">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"Why Cold Email Fails: Poor Deliverability (Your Emails Aren't Landing)","description":"Cold email campaigns that go to spam before they're read. SPF, DKIM, DMARC, domain warm-up, and the technical deliverability factors that determine whether your emails land.","url":"https://zerohypelab.com/guides/why-cold-email-fails-poor-deliverability/","publisher":{"@type":"Organization","name":"ZeroHype","url":"https://zerohypelab.com"}}</script>
+<style>
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;background:#0a0a0a;color:#e8e6e0;line-height:1.7;font-size:17px}
+a{color:#ff4444;text-decoration:none}
+a:hover{text-decoration:underline}
+.nav{padding:18px 0;border-bottom:1px solid #1e1e1e}
+.nav-inner{max-width:760px;margin:0 auto;padding:0 24px;display:flex;justify-content:space-between;align-items:center}
+.logo{font-size:18px;font-weight:700;color:#e8e6e0;letter-spacing:-0.5px}
+.logo span{color:#ff4444}
+.breadcrumb{font-size:13px;color:#666;max-width:760px;margin:24px auto 0;padding:0 24px}
+.breadcrumb a{color:#888}
+.breadcrumb a:hover{color:#ff4444}
+.container{max-width:760px;margin:0 auto;padding:0 24px 80px}
+h1{font-size:clamp(26px,4vw,38px);font-weight:800;line-height:1.2;letter-spacing:-1px;margin:32px 0 16px;color:#fff}
+.meta-bar{font-size:13px;color:#555;margin-bottom:36px;padding-bottom:24px;border-bottom:1px solid #1e1e1e}
+.content h2{font-size:22px;font-weight:700;margin:36px 0 14px;color:#fff;letter-spacing:-0.3px}
+.content h3{font-size:17px;font-weight:700;margin:28px 0 10px;color:#ccc}
+.content p{margin-bottom:18px;color:#c8c4bc}
+.content ul,.content ol{margin:0 0 18px 22px;color:#c8c4bc}
+.content li{margin-bottom:8px}
+.content strong{color:#e8e6e0}
+.content blockquote{border-left:3px solid #ff4444;padding:12px 20px;margin:24px 0;background:#111;color:#aaa;font-style:italic}
+.cta-box{background:#111;border:1px solid #222;border-top:3px solid #ff4444;padding:36px;margin:48px 0;border-radius:4px}
+.cta-box h3{font-size:20px;font-weight:800;color:#fff;margin-bottom:10px;letter-spacing:-0.3px}
+.cta-box p{color:#888;margin-bottom:24px;font-size:15px}
+.cta-btn{display:inline-block;background:#ff4444;color:#fff;padding:12px 28px;font-weight:700;font-size:15px;border-radius:3px;letter-spacing:0.3px}
+.cta-btn:hover{background:#e03333;text-decoration:none}
+.footer{border-top:1px solid #1e1e1e;padding:36px 24px;margin-top:60px}
+.footer-inner{max-width:760px;margin:0 auto}
+.footer-links{display:flex;flex-wrap:wrap;gap:10px 20px;margin-bottom:20px}
+.footer-links a{color:#555;font-size:14px}
+.footer-links a:hover{color:#ff4444}
+.footer-copy{color:#333;font-size:13px}
+@media(max-width:600px){h1{font-size:26px}.cta-box{padding:24px}}
+</style>
+</head>
+<body>
+<nav class="nav">
+  <div class="nav-inner">
+    <a href="https://zerohypelab.com" class="logo">Zero<span>Hype</span></a>
+    <a href="https://zerohypelab.com/guides/" style="font-size:14px;color:#666">All Guides</a>
+  </div>
+</nav>
+<div class="breadcrumb">
+  <a href="https://zerohypelab.com">Home</a> &rsaquo;
+  <a href="https://zerohypelab.com/guides/">Guides</a> &rsaquo;
+  <a href="https://zerohypelab.com/guides/why-cold-email-fails/">Why Cold Email Fails</a>
+</div>
+<div class="container">
+  <h1>Why Cold Email Fails: Poor Deliverability (Your Emails Aren't Landing)</h1>
+  <div class="meta-bar">ZeroHype &middot; DACH B2B Sales &amp; Outreach</div>
+  <div class="content">
+<p>You cannot reply to an email you never received. And a significant proportion of cold email campaigns are failing not because of bad copy or a bad list — but because the emails are being filtered to spam or blocked before they reach the inbox. Email deliverability is the unsexy technical foundation that determines whether your outreach is even visible to the people you are trying to reach.</p><p>Deliverability failures are invisible to the sender. Your campaign dashboard shows emails sent; it does not show emails received in the primary inbox. Open rate tracking (when it works) is the only indirect signal, and even that is distorted by mail client pre-fetching and privacy protections in iOS 15+.</p><h2>The Technical Deliverability Essentials</h2><ul><li><strong>SPF, DKIM, and DMARC configuration.</strong> These email authentication protocols are the absolute baseline. Any sending domain without all three properly configured will have deliverability problems. Check yours before sending a single email.</li><li><strong>Domain age and warm-up.</strong> A brand-new domain used for cold email immediately will get blacklisted. New sending domains need 4-8 weeks of gradual warm-up (progressively increasing send volume, high engagement rates) before being used for outreach at scale.</li><li><strong>Sending volume limits.</strong> Sending 500 cold emails per day from a single domain is a fast route to a spam reputation. Best practice is 30-50 emails per inbox per day, spread across multiple domains for higher volumes.</li><li><strong>Bounce rate management.</strong> A bounce rate above 3-5% signals a list quality problem that will damage your sender reputation. Verify email addresses before sending using tools like NeverBounce or ZeroBounce.</li></ul><h2>Inbox Placement Testing</h2><p>Before launching any cold email campaign, run your emails through an inbox placement tester (GlockApps, Mail-Tester, or similar) to see where your emails land across major email providers. What you discover will often require changes to your technical setup, your sending domain, or your email content before your campaign should go live.</p>
+  </div>
+  <div class="cta-box">
+    <h3>Find Out If Your Campaign Is Already Failing</h3>
+    <p>The Campaign Failure Predictor is a 10-question diagnostic that calculates your Failure Risk Score before you waste any more budget.</p>
+    <a href="https://zerohype-co.github.io/campaign-failure-predictor" class="cta-btn">Run the Campaign Failure Predictor — Free</a>
+  </div>
+</div>
+<footer class="footer">
+  <div class="footer-inner">
+    <div class="footer-links">
+      <a href="https://zerohypelab.com">Home</a>
+      <a href="https://zerohypelab.com/cold-email-roaster/">Cold Email Roaster</a>
+      <a href="https://zerohypelab.com/campaign-failure-predictor/">Campaign Failure Predictor</a>
+      <a href="https://zerohypelab.com/outreach-autopsy/">Outreach Autopsy</a>
+      <a href="https://zerohypelab.com/marketing-autopsy/">Marketing Autopsy</a>
+      <a href="https://zerohypelab.com/campaign-autopsy/">Campaign Autopsy</a>
+      <a href="https://zerohypelab.com/dach-outreach-agent/">DACH Outreach Agent</a>
+      <a href="https://zerohypelab.com/guides/">All Guides</a>
+    </div>
+    <div class="footer-copy">&copy; 2025 ZeroHype. No fluff. No hype.</div>
+  </div>
+</footer>
+</body>
+</html>
