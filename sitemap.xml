@@ -1,102 +1,145 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-  <!-- Hub page -->
+  <!-- Main pages -->
   <url>
-    <loc>https://zerohypelab.com/guides/</loc>
-    <lastmod>2026-03-13</lastmod>
+    <loc>https://zerohypelab.com/</loc>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
+  <url>
+    <loc>https://zerohypelab.com/guides/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
 
-  <!-- Cluster 1: Cold Email Templates -->
-  <url><loc>https://zerohypelab.com/guides/cold-email-templates-austria/</loc><lastmod>2026-03-13</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zerohypelab.com/guides/cold-email-templates-austria-tech/</loc><lastmod>2026-03-13</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zerohypelab.com/guides/cold-email-templates-dach-b2b/</loc><lastmod>2026-03-13</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zerohypelab.com/guides/cold-email-templates-dach-enterprise/</loc><lastmod>2026-03-13</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zerohypelab.com/guides/cold-email-templates-dach-sme/</loc><lastmod>2026-03-13</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zerohypelab.com/guides/cold-email-templates-germany/</loc><lastmod>2026-03-13</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zerohypelab.com/guides/cold-email-templates-germany-automotive/</loc><lastmod>2026-03-13</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zerohypelab.com/guides/cold-email-templates-germany-finance/</loc><lastmod>2026-03-13</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zerohypelab.com/guides/cold-email-templates-germany-healthcare/</loc><lastmod>2026-03-13</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zerohypelab.com/guides/cold-email-templates-germany-logistics/</loc><lastmod>2026-03-13</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zerohypelab.com/guides/cold-email-templates-germany-manufacturing/</loc><lastmod>2026-03-13</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zerohypelab.com/guides/cold-email-templates-germany-retail/</loc><lastmod>2026-03-13</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zerohypelab.com/guides/cold-email-templates-germany-saas/</loc><lastmod>2026-03-13</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zerohypelab.com/guides/cold-email-templates-germany-startup/</loc><lastmod>2026-03-13</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zerohypelab.com/guides/cold-email-templates-switzerland/</loc><lastmod>2026-03-13</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zerohypelab.com/guides/cold-email-templates-switzerland-finance/</loc><lastmod>2026-03-13</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <!-- Free tools -->
+  <url>
+    <loc>https://zerohypelab.com/campaign-failure-predictor/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://zerohypelab.com/cold-email-roaster/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
 
-  <!-- Cluster 2: DACH Software Guides -->
-  <url><loc>https://zerohypelab.com/guides/dach-analytics-platforms-guide/</loc><lastmod>2026-03-13</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zerohypelab.com/guides/dach-b2b-software-buying-guide/</loc><lastmod>2026-03-13</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zerohypelab.com/guides/dach-bi-tools-guide/</loc><lastmod>2026-03-13</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zerohypelab.com/guides/dach-cloud-solutions-guide/</loc><lastmod>2026-03-13</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zerohypelab.com/guides/dach-collaboration-tools-guide/</loc><lastmod>2026-03-13</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zerohypelab.com/guides/dach-crm-software-guide/</loc><lastmod>2026-03-13</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zerohypelab.com/guides/dach-customer-success-tools-guide/</loc><lastmod>2026-03-13</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zerohypelab.com/guides/dach-cybersecurity-tools-guide/</loc><lastmod>2026-03-13</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zerohypelab.com/guides/dach-data-management-tools-guide/</loc><lastmod>2026-03-13</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zerohypelab.com/guides/dach-erp-systems-guide/</loc><lastmod>2026-03-13</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zerohypelab.com/guides/dach-finance-software-guide/</loc><lastmod>2026-03-13</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zerohypelab.com/guides/dach-hr-software-guide/</loc><lastmod>2026-03-13</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zerohypelab.com/guides/dach-marketing-automation-guide/</loc><lastmod>2026-03-13</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zerohypelab.com/guides/dach-procurement-software-guide/</loc><lastmod>2026-03-13</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zerohypelab.com/guides/dach-project-management-tools-guide/</loc><lastmod>2026-03-13</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zerohypelab.com/guides/dach-sales-tools-guide/</loc><lastmod>2026-03-13</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <!-- Paid services -->
+  <url>
+    <loc>https://zerohypelab.com/outreach-autopsy/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://zerohypelab.com/marketing-autopsy/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://zerohypelab.com/campaign-autopsy/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://zerohypelab.com/dach-outreach-agent/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://zerohypelab.com/dach-prospect-intelligence/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
 
-  <!-- Cluster 3: Outreach Scripts by Role -->
-  <url><loc>https://zerohypelab.com/guides/outreach-scripts-ceo/</loc><lastmod>2026-03-13</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zerohypelab.com/guides/outreach-scripts-cfo/</loc><lastmod>2026-03-13</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zerohypelab.com/guides/outreach-scripts-cmo/</loc><lastmod>2026-03-13</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zerohypelab.com/guides/outreach-scripts-cmo-switzerland/</loc><lastmod>2026-03-13</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zerohypelab.com/guides/outreach-scripts-cto/</loc><lastmod>2026-03-13</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zerohypelab.com/guides/outreach-scripts-cto-austria/</loc><lastmod>2026-03-13</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zerohypelab.com/guides/outreach-scripts-enterprise-cxo-dach/</loc><lastmod>2026-03-13</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zerohypelab.com/guides/outreach-scripts-head-of-marketing/</loc><lastmod>2026-03-13</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zerohypelab.com/guides/outreach-scripts-hr-director/</loc><lastmod>2026-03-13</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zerohypelab.com/guides/outreach-scripts-it-director/</loc><lastmod>2026-03-13</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zerohypelab.com/guides/outreach-scripts-operations-director/</loc><lastmod>2026-03-13</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zerohypelab.com/guides/outreach-scripts-procurement/</loc><lastmod>2026-03-13</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zerohypelab.com/guides/outreach-scripts-product-manager/</loc><lastmod>2026-03-13</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zerohypelab.com/guides/outreach-scripts-startup-ceo/</loc><lastmod>2026-03-13</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zerohypelab.com/guides/outreach-scripts-vp-engineering/</loc><lastmod>2026-03-13</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zerohypelab.com/guides/outreach-scripts-vp-sales/</loc><lastmod>2026-03-13</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <!-- Cold Email Templates (16) -->
+  <url><loc>https://zerohypelab.com/guides/cold-email-templates-germany/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/cold-email-templates-austria/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/cold-email-templates-switzerland/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/cold-email-templates-germany-saas/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/cold-email-templates-germany-manufacturing/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/cold-email-templates-germany-finance/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/cold-email-templates-germany-healthcare/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/cold-email-templates-austria-tech/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/cold-email-templates-switzerland-finance/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/cold-email-templates-dach-b2b/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/cold-email-templates-germany-logistics/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/cold-email-templates-germany-automotive/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/cold-email-templates-germany-retail/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/cold-email-templates-dach-enterprise/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/cold-email-templates-germany-startup/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/cold-email-templates-dach-sme/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
 
-  <!-- Cluster 4: Sales Call Scripts by Industry -->
-  <url><loc>https://zerohypelab.com/guides/sales-call-scripts-automotive-germany/</loc><lastmod>2026-03-13</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zerohypelab.com/guides/sales-call-scripts-construction-germany/</loc><lastmod>2026-03-13</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zerohypelab.com/guides/sales-call-scripts-consulting-germany/</loc><lastmod>2026-03-13</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zerohypelab.com/guides/sales-call-scripts-education-germany/</loc><lastmod>2026-03-13</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zerohypelab.com/guides/sales-call-scripts-energy-germany/</loc><lastmod>2026-03-13</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zerohypelab.com/guides/sales-call-scripts-finance-germany/</loc><lastmod>2026-03-13</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zerohypelab.com/guides/sales-call-scripts-healthcare-germany/</loc><lastmod>2026-03-13</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zerohypelab.com/guides/sales-call-scripts-insurance-germany/</loc><lastmod>2026-03-13</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zerohypelab.com/guides/sales-call-scripts-logistics-germany/</loc><lastmod>2026-03-13</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zerohypelab.com/guides/sales-call-scripts-manufacturing-germany/</loc><lastmod>2026-03-13</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zerohypelab.com/guides/sales-call-scripts-media-germany/</loc><lastmod>2026-03-13</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zerohypelab.com/guides/sales-call-scripts-pharma-germany/</loc><lastmod>2026-03-13</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zerohypelab.com/guides/sales-call-scripts-real-estate-germany/</loc><lastmod>2026-03-13</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zerohypelab.com/guides/sales-call-scripts-retail-germany/</loc><lastmod>2026-03-13</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zerohypelab.com/guides/sales-call-scripts-saas-germany/</loc><lastmod>2026-03-13</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zerohypelab.com/guides/sales-call-scripts-tech-germany/</loc><lastmod>2026-03-13</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <!-- Outreach Scripts by Role (16) -->
+  <url><loc>https://zerohypelab.com/guides/outreach-scripts-cto-dach/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/outreach-scripts-cmo-dach/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/outreach-scripts-ceo-dach/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/outreach-scripts-vp-sales-dach/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/outreach-scripts-head-of-marketing-dach/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/outreach-scripts-procurement-dach/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/outreach-scripts-it-director-dach/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/outreach-scripts-cto-austria/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/outreach-scripts-cmo-switzerland/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/outreach-scripts-cfo-dach/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/outreach-scripts-hr-director-dach/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/outreach-scripts-operations-director-dach/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/outreach-scripts-product-manager-dach/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/outreach-scripts-vp-engineering-dach/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/outreach-scripts-startup-ceo-dach/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/outreach-scripts-enterprise-cxo-dach/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
 
-  <!-- Cluster 5: Why Cold Email Fails -->
-  <url><loc>https://zerohypelab.com/guides/why-cold-email-fails-bad-subject-lines/</loc><lastmod>2026-03-13</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zerohypelab.com/guides/why-cold-email-fails-generic-copy/</loc><lastmod>2026-03-13</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zerohypelab.com/guides/why-cold-email-fails-no-ab-testing/</loc><lastmod>2026-03-13</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zerohypelab.com/guides/why-cold-email-fails-no-follow-up/</loc><lastmod>2026-03-13</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zerohypelab.com/guides/why-cold-email-fails-no-personalization/</loc><lastmod>2026-03-13</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zerohypelab.com/guides/why-cold-email-fails-no-research/</loc><lastmod>2026-03-13</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zerohypelab.com/guides/why-cold-email-fails-no-social-proof/</loc><lastmod>2026-03-13</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zerohypelab.com/guides/why-cold-email-fails-no-testing/</loc><lastmod>2026-03-13</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zerohypelab.com/guides/why-cold-email-fails-no-value-prop/</loc><lastmod>2026-03-13</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zerohypelab.com/guides/why-cold-email-fails-poor-deliverability/</loc><lastmod>2026-03-13</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zerohypelab.com/guides/why-cold-email-fails-spam-triggers/</loc><lastmod>2026-03-13</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zerohypelab.com/guides/why-cold-email-fails-too-long/</loc><lastmod>2026-03-13</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zerohypelab.com/guides/why-cold-email-fails-weak-cta/</loc><lastmod>2026-03-13</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zerohypelab.com/guides/why-cold-email-fails-wrong-channel/</loc><lastmod>2026-03-13</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zerohypelab.com/guides/why-cold-email-fails-wrong-icp/</loc><lastmod>2026-03-13</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zerohypelab.com/guides/why-cold-email-fails-wrong-timing/</loc><lastmod>2026-03-13</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <!-- DACH Software Buying Guides (16) -->
+  <url><loc>https://zerohypelab.com/guides/dach-b2b-software-buying-guide/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/dach-crm-software-guide/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/dach-marketing-automation-guide/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/dach-sales-tools-guide/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/dach-analytics-platforms-guide/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/dach-project-management-tools-guide/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/dach-cybersecurity-tools-guide/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/dach-hr-software-guide/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/dach-erp-systems-guide/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/dach-cloud-solutions-guide/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/dach-data-management-tools-guide/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/dach-customer-success-tools-guide/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/dach-procurement-software-guide/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/dach-finance-software-guide/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/dach-collaboration-tools-guide/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/dach-bi-tools-guide/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+
+  <!-- Why Cold Email Fails (16) -->
+  <url><loc>https://zerohypelab.com/guides/why-cold-email-fails-no-personalization/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/why-cold-email-fails-bad-subject-lines/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/why-cold-email-fails-wrong-timing/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/why-cold-email-fails-no-follow-up/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/why-cold-email-fails-weak-cta/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/why-cold-email-fails-wrong-icp/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/why-cold-email-fails-poor-deliverability/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/why-cold-email-fails-generic-copy/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/why-cold-email-fails-no-social-proof/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/why-cold-email-fails-too-long/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/why-cold-email-fails-no-research/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/why-cold-email-fails-wrong-channel/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/why-cold-email-fails-no-value-prop/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/why-cold-email-fails-spam-triggers/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/why-cold-email-fails-no-ab-testing/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/why-cold-email-fails-no-testing/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+
+  <!-- Sales Call Scripts by German Industry (16) -->
+  <url><loc>https://zerohypelab.com/guides/sales-call-scripts-germany-saas/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/sales-call-scripts-germany-manufacturing/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/sales-call-scripts-germany-finance/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/sales-call-scripts-germany-healthcare/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/sales-call-scripts-germany-logistics/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/sales-call-scripts-germany-automotive/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/sales-call-scripts-germany-retail/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/sales-call-scripts-germany-tech/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/sales-call-scripts-germany-energy/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/sales-call-scripts-germany-real-estate/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/sales-call-scripts-germany-consulting/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/sales-call-scripts-germany-pharma/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/sales-call-scripts-germany-insurance/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/sales-call-scripts-germany-media/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/sales-call-scripts-germany-construction/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/sales-call-scripts-germany-education/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
 
 </urlset>
