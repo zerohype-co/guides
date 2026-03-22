@@ -142,4 +142,12 @@
   <url><loc>https://zerohypelab.com/guides/sales-call-scripts-construction-germany/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://zerohypelab.com/guides/sales-call-scripts-education-germany/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
 
+
+  <!-- Pillar pages (5 cluster hubs) -->
+  <url><loc>https://zerohypelab.com/guides/cold-email-dach/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://zerohypelab.com/guides/outreach-scripts-dach/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://zerohypelab.com/guides/buying-software-in-dach/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://zerohypelab.com/guides/cold-email-fails/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://zerohypelab.com/guides/sales-call-scripts-germany/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+
 </urlset>
