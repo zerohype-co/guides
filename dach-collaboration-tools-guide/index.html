@@ -93,13 +93,13 @@
     .btn-yellow:hover { opacity: 0.85; }
 
     /* ── FOOTER ── */
-    footer { background: var(--bg-dark); padding: 40px 48px; }
-    .footer-inner { max-width: 1200px; margin: 0 auto; }
-    .footer-wordmark { font-family: 'Bebas Neue', sans-serif; font-size: 1.5rem; letter-spacing: 0.1em; color: var(--yellow); display: block; margin-bottom: 20px; }
-    .footer-links { display: flex; gap: 24px; flex-wrap: wrap; list-style: none; margin-bottom: 20px; }
-    .footer-links a { font-size: 12px; color: rgba(255,255,255,0.5); transition: color 0.15s; }
-    .footer-links a:hover { color: var(--yellow); }
-    .footer-tagline { font-size: 12px; color: rgba(255,255,255,0.35); margin-bottom: 4px; }
+    footer { padding: 36px 48px; border-top: 2px solid var(--yellow); }
+    .footer-inner { max-width: 1280px; margin: 0 auto; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 20px; }
+    .footer-wordmark { font-family: 'Bebas Neue', sans-serif; font-size: 1.2rem; letter-spacing: 0.1em; background: var(--yellow); color: var(--text); padding: 4px 12px 5px; }
+    .footer-links { display: flex; gap: 24px; list-style: none; flex-wrap: wrap; }
+    .footer-links a { font-size: 12px; color: var(--muted); text-decoration: none; transition: color 0.2s; }
+    .footer-links a:hover { color: var(--text); }
+    .footer-tagline { font-family: 'DM Mono', monospace; font-size: 11px; letter-spacing: 0.1em; color: var(--muted); width: 100%; }
 
     @media (max-width: 640px) {
       nav { padding: 18px 24px; }
@@ -107,7 +107,7 @@
       .page-hero { padding: 28px 24px 36px; }
       main { padding: 40px 24px 64px; }
       .cta-block { padding: 32px 24px; }
-      footer { padding: 28px 24px; }
+      footer { padding: 28px 24px; border-top: 2px solid var(--yellow); }
     }
   </style>
 </head>
@@ -120,7 +120,7 @@
       <ul class="nav-links">
         <li><a href="https://zerohypelab.com/manifesto/">Manifesto</a></li>
         <li><a href="https://zerohypelab.com/guides/" class="active">Guides</a></li>
-        <li><a href="https://zerohypelab.substack.com">Newsletter</a></li>
+        <li><a href="https://zerohypelab.substack.com">Substack Newsletter</a></li>
         <li><a href="https://x.com/zerohype_co">X</a></li>
         <li><a href="https://zerohypelab.com/about/">About</a></li>
       </ul>
@@ -161,11 +161,12 @@
         <li><a href="https://zerohypelab.substack.com">Substack Newsletter</a></li>
         <li><a href="https://x.com/zerohype_co">X &mdash; @zerohype_co</a></li>
         <li><a href="https://www.youtube.com/@zerohype_co" target="_blank" rel="noopener">YouTube</a></li>
-        <li><a href="https://zerohypelab.com/about/">About</a></li>
+        <li><a href="https://www.producthunt.com/products/campaign-failure-predictor" target="_blank" rel="noopener">Product Hunt</a></li>
+        <li><a href="https://zerohypelab.com/monthly-autopsy/">Monthly Autopsy &mdash; $300/mo</a></li>
         <li>Contact: zerohype@proton.me</li>
       </ul>
-      <p class="footer-tagline">No fluff. No hype. Just what works.</p>
-      <p class="footer-tagline">Published by <a href="https://zerohypelab.com/about/" style="color:rgba(255,255,255,0.35);">Zero Hype</a> &mdash; Contact: zerohype@proton.me</p>
+      <p class="footer-tagline">No fluff. No hype. Just what works. &middot; <time datetime="2026-06-09">Updated June 2026</time></p>
+      <p class="footer-tagline">Published by <a href="https://zerohypelab.com/about/" style="color:var(--muted);">Zero Hype</a> &mdash; Contact: zerohype@proton.me</p>
     </div>
   </footer>
 
