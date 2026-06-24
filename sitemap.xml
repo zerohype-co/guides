@@ -70,7 +70,7 @@
   <url><loc>https://zerohypelab.com/guides/cold-email-templates-germany-startup/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://zerohypelab.com/guides/cold-email-templates-dach-sme/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
 
-  <!-- Outreach Scripts by Role (16) -->
+  <!-- Outreach Scripts by Role (16 original) -->
   <url><loc>https://zerohypelab.com/guides/outreach-scripts-cto/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://zerohypelab.com/guides/outreach-scripts-cmo/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://zerohypelab.com/guides/outreach-scripts-ceo/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
@@ -87,6 +87,21 @@
   <url><loc>https://zerohypelab.com/guides/outreach-scripts-vp-engineering/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://zerohypelab.com/guides/outreach-scripts-startup-ceo/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://zerohypelab.com/guides/outreach-scripts-enterprise-cxo-dach/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+
+  <!-- Outreach Scripts by Role — DACH variants (13 new, added S87) -->
+  <url><loc>https://zerohypelab.com/guides/outreach-scripts-cto-dach/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/outreach-scripts-cmo-dach/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/outreach-scripts-ceo-dach/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/outreach-scripts-vp-sales-dach/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/outreach-scripts-head-of-marketing-dach/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/outreach-scripts-procurement-dach/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/outreach-scripts-it-director-dach/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/outreach-scripts-cfo-dach/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/outreach-scripts-hr-director-dach/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/outreach-scripts-operations-director-dach/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/outreach-scripts-product-manager-dach/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/outreach-scripts-vp-engineering-dach/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/outreach-scripts-startup-ceo-dach/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
 
   <!-- DACH Software Buying Guides (16) -->
   <url><loc>https://zerohypelab.com/guides/dach-b2b-software-buying-guide/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
@@ -124,7 +139,7 @@
   <url><loc>https://zerohypelab.com/guides/why-cold-email-fails-no-ab-testing/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://zerohypelab.com/guides/why-cold-email-fails-no-testing/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
 
-  <!-- Sales Call Scripts by German Industry (16) -->
+  <!-- Sales Call Scripts — original pattern (16) -->
   <url><loc>https://zerohypelab.com/guides/sales-call-scripts-saas-germany/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://zerohypelab.com/guides/sales-call-scripts-manufacturing-germany/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://zerohypelab.com/guides/sales-call-scripts-finance-germany/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
@@ -142,8 +157,61 @@
   <url><loc>https://zerohypelab.com/guides/sales-call-scripts-construction-germany/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://zerohypelab.com/guides/sales-call-scripts-education-germany/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
 
+  <!-- Sales Call Scripts — germany-industry pattern (16 new, added S87) -->
+  <url><loc>https://zerohypelab.com/guides/sales-call-scripts-germany-saas/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/sales-call-scripts-germany-manufacturing/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/sales-call-scripts-germany-finance/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/sales-call-scripts-germany-healthcare/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/sales-call-scripts-germany-logistics/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/sales-call-scripts-germany-automotive/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/sales-call-scripts-germany-retail/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/sales-call-scripts-germany-tech/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/sales-call-scripts-germany-energy/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/sales-call-scripts-germany-real-estate/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/sales-call-scripts-germany-consulting/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/sales-call-scripts-germany-pharma/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/sales-call-scripts-germany-insurance/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/sales-call-scripts-germany-media/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/sales-call-scripts-germany-construction/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/sales-call-scripts-germany-education/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
 
-  <!-- Pillar pages (5 cluster hubs) -->
+  <!-- B2B Email Subject Lines by Industry (16, added S12) -->
+  <url><loc>https://zerohypelab.com/guides/b2b-email-subject-lines-saas/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/b2b-email-subject-lines-manufacturing/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/b2b-email-subject-lines-fintech/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/b2b-email-subject-lines-healthcare/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/b2b-email-subject-lines-logistics/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/b2b-email-subject-lines-consulting/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/b2b-email-subject-lines-insurance/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/b2b-email-subject-lines-real-estate/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/b2b-email-subject-lines-legal-services/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/b2b-email-subject-lines-it-services/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/b2b-email-subject-lines-hr-tech/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/b2b-email-subject-lines-ecommerce/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/b2b-email-subject-lines-recruitment/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/b2b-email-subject-lines-accounting/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/b2b-email-subject-lines-construction/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/b2b-email-subject-lines-marketing-agencies/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+
+  <!-- Marketing Budget Mistakes by Industry (16, added S12) -->
+  <url><loc>https://zerohypelab.com/guides/marketing-budget-mistakes-b2b-saas/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/marketing-budget-mistakes-manufacturing/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/marketing-budget-mistakes-fintech/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/marketing-budget-mistakes-healthcare/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/marketing-budget-mistakes-logistics/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/marketing-budget-mistakes-consulting/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/marketing-budget-mistakes-agencies/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/marketing-budget-mistakes-real-estate/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/marketing-budget-mistakes-legal/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/marketing-budget-mistakes-it-services/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/marketing-budget-mistakes-hr-tech/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/marketing-budget-mistakes-ecommerce/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/marketing-budget-mistakes-recruitment/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/marketing-budget-mistakes-retail/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/marketing-budget-mistakes-startups/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://zerohypelab.com/guides/marketing-budget-mistakes-professional-services/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+
+  <!-- Pillar pages — 5 cluster hubs (live, ranking) -->
   <url><loc>https://zerohypelab.com/guides/cold-email-dach/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://zerohypelab.com/guides/outreach-scripts-dach/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://zerohypelab.com/guides/buying-software-in-dach/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
