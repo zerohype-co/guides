@@ -650,6 +650,88 @@ EdTech in a skeptical market. Budget cycles, procurement rules, and patience
 
 Read →
 
+06 Sales Call Scripts: Austria & Switzerland 10 guides
+
+[](sales-call-scripts-tech-austria/)
+
+Sales Call Scripts: Austrian Tech
+
+Vienna startups and Provinz corporates are different calls. Formal titles still carry weight
+
+Read →
+
+[](sales-call-scripts-manufacturing-austria/)
+
+Sales Call Scripts: Austrian Manufacturing
+
+The Steiermark automotive supply chain, formal contract cycles, and the export-margin case
+
+Read →
+
+[](sales-call-scripts-energy-austria/)
+
+Sales Call Scripts: Austrian Energy
+
+Hydro baseline, EU policy mediation, and a project cycle measured in years
+
+Read →
+
+[](sales-call-scripts-logistics-austria/)
+
+Sales Call Scripts: Austrian Logistics
+
+Brenner corridor realities, family-owned 3PLs, and IT read as cost rather than investment
+
+Read →
+
+[](sales-call-scripts-retail-austria/)
+
+Sales Call Scripts: Austrian Retail
+
+Slower digital adoption than Germany, and decisions still made at the family dinner table
+
+Read →
+
+[](sales-call-scripts-finance-switzerland/)
+
+Sales Call Scripts: Swiss Finance
+
+FINMA-aware call structure, multilingual stakeholder routing, and the Q4 budget rhythm
+
+Read →
+
+[](sales-call-scripts-pharma-switzerland/)
+
+Sales Call Scripts: Swiss Pharma
+
+Basel-cluster procurement, GMP objections, and the Regulatory Affairs versus Procurement split
+
+Read →
+
+[](sales-call-scripts-insurance-switzerland/)
+
+Sales Call Scripts: Swiss Insurance
+
+FINMA-regulated calls, second-pillar awareness, and the reinsurance versus retail split
+
+Read →
+
+[](sales-call-scripts-manufacturing-switzerland/)
+
+Sales Call Scripts: Swiss Manufacturing
+
+Won on international references, not local ones. MEM-industry objections and trained buyers
+
+Read →
+
+[](sales-call-scripts-saas-switzerland/)
+
+Sales Call Scripts: Swiss SaaS
+
+Longer cycles than Germany, and the SLA and data residency language Swiss buyers push on
+
+Read →
+
 ---
 
 Source: https://zerohypelab.com/guides/
