@@ -2,8 +2,8 @@
 const fs = require('fs');
 const path = require('path');
 
-const config = JSON.parse(fs.readFileSync('pages-config.json', 'utf8'));
-const template = fs.readFileSync('_template.html', 'utf8');
+const config = JSON.parse(fs.readFileSync('.github/pages-config.json', 'utf8'));
+const template = fs.readFileSync('.github/_template.html', 'utf8');
 const BASE_URL = 'https://zerohypelab.com/guides/';
 
 let count = 0;

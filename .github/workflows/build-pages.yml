@@ -4,8 +4,8 @@ on:
   push:
     branches: [main]
     paths:
-      - 'pages-config.json'
-      - '_template.html'
+      - '.github/pages-config.json'
+      - '.github/_template.html'
       - '.github/scripts/generate-pages.js'
       - '.github/workflows/build-pages.yml'
   workflow_dispatch:
